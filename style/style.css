@@ -1,8 +1,8 @@
+
 body{
+    margin: none;
     display: block;
     font-size:100px; 
-    width: 200px;
-    height: 100px;
     background: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;   
 
