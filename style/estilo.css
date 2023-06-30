@@ -25,8 +25,9 @@ body{
     .conteiner{
         display: flex;
         align-items: center;
+        margin: 4px;
     }
-.conteiner_imagem{
+    .conteiner_imagem{
     padding: 1em;
 }
     #id01{
