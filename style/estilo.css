@@ -1,11 +1,12 @@
 
+body{
+    background-color: var(--cor-de-fundo);
+    }
 :root{
     --cor-de-fundo:#EBECEE;
     --cor-branca:#FFFFFF;
     }
-    body{
-        background-color: var(--cor-de-fundo);
-        }
+
     .cabeça_principal{
         background-color: var(--cor-branca);
         display: flex;
