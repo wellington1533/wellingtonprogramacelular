@@ -18,14 +18,14 @@ body{
         height: 24px;
         background-image: url(../img/Menu.svg);
         background-repeat: no-repeat;
-    background-position: center;
-    display: inline-block;
+        background-position: center;
+        display: inline-block;
         display: inline-block;
     }
     .conteiner{
         display: flex;
         align-items: center;
-        margin: 4px;
+        justify-content: 4px;
     }
     .conteiner_imagem{
     padding: 1em;
