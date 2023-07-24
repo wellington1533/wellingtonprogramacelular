@@ -12,6 +12,7 @@ body{
         display: flex;
         align-items: center;
         justify-content: space-between;
+        position: relative;
     }
     .cabeça_do_menu1{
         width: 24px; 
@@ -31,6 +32,14 @@ body{
     }
     .conteiner_imagem{
     padding: 1em;
+}
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+.container__botao:checked ~ .lista-menu {
+    display: block;
 }
     #id01{
         width:25px;
