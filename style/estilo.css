@@ -25,10 +25,9 @@ body{
     }
     .conteiner{
         display: flex;
-        width: 100px;
-        height: 50px;
+       
         align-items: center;
-        justify-content: 5px;
+        justify-content: space-between;
     }
     .conteiner_imagem{
     padding: 1em;
