@@ -30,11 +30,11 @@ body{
 .container__imagem{
     padding: 1em;
 }
-.container__botao:checked ~ .lista-menu {
-    display: block;
-}
 .lista-menu{
     display: none;
     position: absolute;
     top: 100%;
+}
+.container__botao:checked ~ .lista-menu {
+    display: block;
 }
